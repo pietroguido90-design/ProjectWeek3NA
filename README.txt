@@ -1,4 +1,4 @@
-﻿Here is a professional, comprehensive, and engaging README.md file designed for your GitHub repository or project submission. It captures both the rigorous data science methodology and the storytelling tone we developed.
+
 🇮🇹 The Mancini Effect: Data-Driven Impact Analysis & Italy 2030 World Cup Projection
 "In Italy, you don't touch three things: Family, Food, and Football."
 After recent World Cup heartbreaks, football anxiety is at an all-time high. This project brings objective Data Science to the rescue—measuring the real impact of manager Roberto Mancini and running predictive simulations for the Italy 2030 World Cup.
